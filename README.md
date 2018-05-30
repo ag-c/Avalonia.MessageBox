@@ -2,6 +2,10 @@
 A MessageBox modal made to be used with Avalonia unofficially.
 
 # Installation
+From nuget package:
+`dotnet add package StarDebris.Avalonia.MessageBox`
+
+From source:
 `dotnet add reference path/to/StarDebris.Avalonia.MessageBox.csproj`
 
 
