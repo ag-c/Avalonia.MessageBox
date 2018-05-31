@@ -1,5 +1,5 @@
 # Avalonia.MessageBox
-A MessageBox modal made to be used with Avalonia unofficially.
+A MessageBox modal made to be used with Avalonia.
 
 # Installation
 From nuget package:
